@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.da8eee81.css",
-    "main.js": "/static/js/main.67e87f7f.js",
+    "main.js": "/static/js/main.fdbee4e3.js",
     "static/js/787.98651143.chunk.js": "/static/js/787.98651143.chunk.js",
     "static/media/GrandisExtended-Light.ttf": "/static/media/GrandisExtended-Light.309665afd35afaf2bbe1.ttf",
     "static/media/good.png": "/static/media/good.2d4bf3fc2fe7a4643495.png",
     "index.html": "/index.html",
     "static/media/eye.svg": "/static/media/eye.728fc454630328bf16dfc001187139b3.svg",
     "main.da8eee81.css.map": "/static/css/main.da8eee81.css.map",
-    "main.67e87f7f.js.map": "/static/js/main.67e87f7f.js.map",
+    "main.fdbee4e3.js.map": "/static/js/main.fdbee4e3.js.map",
     "787.98651143.chunk.js.map": "/static/js/787.98651143.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da8eee81.css",
-    "static/js/main.67e87f7f.js"
+    "static/js/main.fdbee4e3.js"
   ]
 }
